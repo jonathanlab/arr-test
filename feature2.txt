@@ -1,0 +1,2 @@
+feature2
+fix for feature 2
