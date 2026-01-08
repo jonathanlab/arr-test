@@ -4,3 +4,5 @@ new line
 test change
 wowie
 hi
+test
+conflicting change
