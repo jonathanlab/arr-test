@@ -5,4 +5,4 @@ test change
 wowie
 hi
 test
-conflicting change
+resolved content
